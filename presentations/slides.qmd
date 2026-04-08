@@ -165,7 +165,7 @@ Reads, writes, and exchanges data in relevant standards
 -   Difficult with the R OO systems (S3)
 -   Document your classes and their expected fields
 -   Provide clear interfaces with other data formats
--   Expose your internal functions! Scientific code is hacky
+-   Expose your internal functions! Scientific code is notoriously hacky
 
 ## **R**eusable
 
