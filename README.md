@@ -12,7 +12,9 @@ Orcid: [0000-0003-1559-1838](https://orcid.org/0000-0003-1559-1838)
 
 ## Usage
 
-Slides are in `slides.qmd`, which are rendered using reveal.js to `slides.html`, which are viewable in every browser.
+Slides available [here](https://mindthegap-erc.github.io/FAIR_R_packages_for_science/slides#/advanced-r-packaging)
+
+Based on the UU quarto slides template available [here](https://github.com/UtrechtUniversity/uu-quarto-presentation-template)
 
 ## License
 
