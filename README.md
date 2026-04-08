@@ -12,7 +12,7 @@ Orcid: [0000-0003-1559-1838](https://orcid.org/0000-0003-1559-1838)
 
 ## Usage
 
-Slides are in `slides.qmd`, which are rendered to reveal.js to `slides.html`, which are viewable in every browser.
+Slides are in `slides.qmd`, which are rendered using reveal.js to `slides.html`, which are viewable in every browser.
 
 ## License
 
